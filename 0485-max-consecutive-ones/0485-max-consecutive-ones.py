@@ -5,7 +5,7 @@ class Solution:
         for n in nums:
             if n == 1:
                 currentmax +=1
-            if n == 0:
                 sol = max(currentmax, sol)
+            if n == 0:
                 currentmax = 0
-        return max(currentmax, sol)
+        return sol
