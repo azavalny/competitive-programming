@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
+| [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/azavalny/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/azavalny/competitive-programming/tree/master/0303-range-sum-query-immutable) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/azavalny/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/azavalny/competitive-programming/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
