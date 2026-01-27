@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/azavalny/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/azavalny/competitive-programming/tree/master/0344-reverse-string) |
