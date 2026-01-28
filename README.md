@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/azavalny/competitive-programming/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/azavalny/competitive-programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/azavalny/competitive-programming/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/azavalny/competitive-programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/azavalny/competitive-programming/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/azavalny/competitive-programming/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/azavalny/competitive-programming/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/azavalny/competitive-programming/tree/master/0125-valid-palindrome) |
