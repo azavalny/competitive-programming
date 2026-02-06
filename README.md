@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/azavalny/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/azavalny/competitive-programming/tree/master/0303-range-sum-query-immutable) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/azavalny/competitive-programming/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
+| [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/azavalny/competitive-programming/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
