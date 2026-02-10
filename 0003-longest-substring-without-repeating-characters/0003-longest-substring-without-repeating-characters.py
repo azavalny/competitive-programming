@@ -21,7 +21,6 @@ class Solution:
         l = 0
         curSet = set()
         for r in range(len(s)):
-            print(s[l], s[r], curSet)
             while s[r] in curSet:
                 curSet.remove(s[l])
                 l+=1
