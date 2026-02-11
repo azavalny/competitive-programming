@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/azavalny/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/azavalny/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/azavalny/competitive-programming/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/azavalny/competitive-programming/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/azavalny/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
