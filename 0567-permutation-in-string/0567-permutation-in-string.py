@@ -11,19 +11,22 @@ class Solution:
                  ___
 
         slide window of size s1:
-            is window's hash table of frequencies equal to s1's?
+            window frequency = s1 freq?
+                return True
+            if not at last window:
+                add freq of next char
+                remove freq of previous char
         """
         s1Freq = dict(Counter(s1))
         curWindow = Counter(s2[:len(s1)])
-        for i in range(len(s2)-len(s1) + 1):
+        for i in range(len(s2)-len(s1)):
             if curWindow == s1Freq:
                 return True
 
-            if i < len(s2) - len(s1):
-                curWindow[s2[i]] -=1
-                if curWindow[s2[i]] == 0:
-                    del curWindow[s2[i]]
+            curWindow[s2[i]] -=1
+            if curWindow[s2[i]] == 0:
+                del curWindow[s2[i]]
 
-                curWindow[s2[i + len(s1)]] +=1
+            curWindow[s2[i + len(s1)]] +=1
 
-        return False
+        return curWindow == s1Freq
