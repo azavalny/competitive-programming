@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/azavalny/competitive-programming/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/azavalny/competitive-programming/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/azavalny/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/azavalny/competitive-programming/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/azavalny/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/azavalny/competitive-programming/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/azavalny/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
