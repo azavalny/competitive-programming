@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/azavalny/competitive-programming/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/azavalny/competitive-programming/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/azavalny/competitive-programming/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/azavalny/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/azavalny/competitive-programming/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/azavalny/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/azavalny/competitive-programming/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/azavalny/competitive-programming/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/azavalny/competitive-programming/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/azavalny/competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/azavalny/competitive-programming/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
