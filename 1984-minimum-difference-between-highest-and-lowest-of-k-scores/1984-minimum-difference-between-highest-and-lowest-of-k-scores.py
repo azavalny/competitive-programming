@@ -17,9 +17,7 @@ sorted= [1, 4, 7, 9] k =3
         you'll have to have n^2
         """
         nums.sort()
-        l = 0
         sol = float("inf")
-        for r in range(k-1, len(nums)):
-            sol = min(sol, nums[r] - nums[l])
-            l+=1
+        for i in range(len(nums) -k + 1):
+            sol = min(sol, nums[i + k-1] - nums[i])
         return sol
