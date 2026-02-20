@@ -18,22 +18,21 @@ class Solution:
         nums1 = [4,1,2], nums2 = [1,3,4,2]
                    i
                                     j
-        """
-        sol = []
 
-        nums2map = {v: i for i, v in enumerate(nums2)} # we can do this because input nums unique
+
+        preprocess nums2 once with monotonic decreasing stack to compute next greater element for every value in nums2
+        """
         stack = []
-        for n1 in nums1:
-            nextIndex = nums2map[n1]
-            solFound = False
-            for j, n2 in enumerate(nums2[nextIndex:]):
-                if stack and n2 > n1:
-                    sol.append(n2)
-                    solFound = True
-                    break
-                else:
-                    stack.append(n2)
-            if not solFound:
-                sol.append(-1)
-            stack = []
-        return sol
+        next_greater = {}
+
+        # build monotonically decreasing stack of values from nums2
+        for n in nums2:
+            while stack and n > stack[-1]:
+                smaller = stack.pop()
+                next_greater[smaller] = n
+            stack.append(n)
+        # anything left in stack has no next greater
+        for n in stack:
+            next_greater[n] = -1
+        
+        return [next_greater[x] for x in nums1]
