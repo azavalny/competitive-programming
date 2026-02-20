@@ -16,10 +16,11 @@ class Solution:
 
         for every character in t
         """
-        i = 0 # pointer for s
-        for c in t:
-            if i < len(s) and c == s[i]:
+        i = 0
+        j = 0
+
+        while i < len(s) and j < len(t):
+            if s[i] == t[j]:
                 i+=1
-                if i == len(s): #have seen every character in s
-                    return True
+            j +=1
         return i == len(s)
