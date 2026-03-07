@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/azavalny/competitive-programming/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/azavalny/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/azavalny/competitive-programming/tree/master/0661-image-smoother) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/azavalny/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/azavalny/competitive-programming/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/azavalny/competitive-programming/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/azavalny/competitive-programming/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Math
