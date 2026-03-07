@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/azavalny/competitive-programming/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
+| [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/azavalny/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
+| [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
+| [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 ## Two Pointers
 |  |
 | ------- |
