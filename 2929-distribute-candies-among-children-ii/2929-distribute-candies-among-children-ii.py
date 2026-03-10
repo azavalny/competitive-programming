@@ -46,15 +46,17 @@ class Solution:
         **|**|*
         7c2 = n + k-1 choose k-1 where n = 5
 
+        ||
+
         """
         def comb2(n):
             candies = n-2 # because we added 2 bars/children
             if candies < 0:
                 return 0
             return math.comb(n, 2)
+        total = comb2(n+2)
         invalid_limit = limit+1
         singles =  3*comb2(n-invalid_limit + 2)
         pairs = 3*comb2(n-2*invalid_limit + 2) # give 2 children limit + 1 how much left
         triples = comb2(n-3*invalid_limit + 2)# give each children limit + 1 how much left
-        print(comb2(n+2), singles, pairs, triples)
-        return comb2(n+2) - singles + pairs - triples
+        return total - singles + pairs - triples
