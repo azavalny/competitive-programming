@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/azavalny/competitive-programming/tree/master/2523-closest-prime-numbers-in-range) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2928-distribute-candies-among-children-i](https://github.com/azavalny/competitive-programming/tree/master/2928-distribute-candies-among-children-i) |
+| [2929-distribute-candies-among-children-ii](https://github.com/azavalny/competitive-programming/tree/master/2929-distribute-candies-among-children-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/azavalny/competitive-programming/tree/master/0204-count-primes) |
 | [2928-distribute-candies-among-children-i](https://github.com/azavalny/competitive-programming/tree/master/2928-distribute-candies-among-children-i) |
+| [2929-distribute-candies-among-children-ii](https://github.com/azavalny/competitive-programming/tree/master/2929-distribute-candies-among-children-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/azavalny/competitive-programming/tree/master/2928-distribute-candies-among-children-i) |
+| [2929-distribute-candies-among-children-ii](https://github.com/azavalny/competitive-programming/tree/master/2929-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
