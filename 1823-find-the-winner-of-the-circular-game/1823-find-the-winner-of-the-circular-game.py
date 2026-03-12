@@ -1,3 +1,8 @@
+class Node:
+    def __init__(self, val, prevNode=None, nextNode=None):
+        self.val = val
+        self.prevNode = prevNode
+        self.nextNode = nextNode
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
         """
@@ -34,22 +39,63 @@ index: 4 to 0 = (4 + 1)%5
 
     [1, 0, 0, 0, 0] k = 2
      i
+
+    n = 2 to 5, k = 2
+    f(1) = 0
+    f(2) = (f(1) + 2)%2 = 0
+    f(3) = (f(2) + 2)%3 = 2
+    f(4) = (f(3) + 2)%4 = 0
+
+    Linked List:
+
+    [3], k=2
+        i
+    build doubly linked list
+        create head (1)
+        from 2 to n:
+            create new node
+            set new node.prev = prev
+            set prev.next = current
+
+            prev = current
+        head.prev = current
+        current.next = head
+
+        1 <-> 2 <-> 3 <-> 4 <-> 5
+
+    current initially head
+     while friends_alive > 1:
+        move k-1 nodes
+        remove current node and set current to next and next to previous
+        friends_alive -=1
+    return current.val
         """
-        friends = [i + 1 for i in range(n)]
-        friends_killed = 0
-        starting_index = 0
 
-        while friends_killed != n - 1:
-            new_index = starting_index % n
-            steps = 0
+        head = Node(1, None, None)
+        prev = head
+        for i in range(2, n+1):
+            newNode = Node(i, prev, None)
+            prev.nextNode = newNode
 
-            while friends[new_index] == 0 or steps < k - 1:
-                if friends[new_index] != 0:
-                    steps += 1
-                new_index = (new_index + 1) % n
+            prev = newNode
+        head.prevNode = prev
+        prev.nextNode = head
+        
+        curNode = head
+        friendsAlive = n
+        while friendsAlive > 2:
+            for i in range(k-1):
+                curNode = curNode.nextNode
+            # removing curNode's pointers
+            nextNodeAfter = curNode.nextNode # get next node
+            nextNodeAfter.prevNode = curNode.prevNode # set next node's previous to be previous node from current
+            prevNode = curNode.prevNode # get previous node
+            prevNode.nextNode = nextNodeAfter # set previous node's next to te the next node
+            
+            curNode = nextNodeAfter # move current node to next and restart
 
-            friends[new_index] = 0
-            friends_killed += 1
-            starting_index = (new_index + 1) % n
-
-        return sum(friends)
+            friendsAlive -=1
+        print(curNode.val, curNode.nextNode.val)
+        if k%2 == 0:
+            return curNode.val
+        return curNode.nextNode.val
