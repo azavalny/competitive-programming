@@ -35,8 +35,8 @@ class Solution:
             for c in range(COLS):
                 curIndex = r*COLS + c
                 new_index = (curIndex + k)%(ROWS*COLS)
-                target_r = max((new_index)//COLS, 0)
-                target_c = max((new_index)-target_r*COLS, 0)
+                target_r = (new_index)//COLS
+                target_c = (new_index)-target_r*COLS
                 print("1d current", curIndex, "new rotated 1d", new_index, "targetr", target_r, "targetc", target_c)
                 sol[target_r][target_c] = grid[r][c]
 
