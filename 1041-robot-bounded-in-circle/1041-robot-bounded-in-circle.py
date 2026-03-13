@@ -30,7 +30,7 @@ class Solution:
         idea 3: ignore G's just loop over rotations.IF you end on a different direction then you started then you know you'll do a cycle
 
         idea 4: robot stays in cycle at end:
-            1. back at origin AAND
+            1. back at origin OR
             2. does not face north
 
         for each move:
@@ -59,6 +59,6 @@ class Solution:
             print("END", move, coord, direction)
         print("#"*10)
         print("END", coord, direction)
-        if coord == [0, 0] or direction != 0: # back at Origin and not North
+        if coord == [0, 0] or direction != 0: # back at Origin or not North
             return True
         return False
