@@ -36,8 +36,7 @@ class Solution:
                 curIndex = r*COLS + c
                 new_index = (curIndex + k)%(ROWS*COLS)
                 target_r = (new_index)//COLS
-                target_c = (new_index)-target_r*COLS
-                print("1d current", curIndex, "new rotated 1d", new_index, "targetr", target_r, "targetc", target_c)
+                target_c = (new_index)%COLS
                 sol[target_r][target_c] = grid[r][c]
 
         return sol
