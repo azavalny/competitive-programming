@@ -37,12 +37,10 @@ class DetectSquares:
             if y_n == y:
                 if x_n == x: # 4 coordinates
                     continue
-                horizontal_values.append((x_n, y_n))
-        for x_h, y_h in horizontal_values:
-            d = abs(x - x_h)
-            square_above = self.counts[(x_h, y)]*self.counts[(x, y + d)]*self.counts[(x_h, y+d)]
-            square_below = self.counts[(x_h, y)]*self.counts[(x, y - d)]*self.counts[(x_h, y-d)]
-            sol = sol + square_above + square_below
+                d = abs(x - x_n)
+                square_above = self.counts.get((x_n, y), 0)*self.counts.get((x, y + d), 0)*self.counts.get((x_n, y+d), 0)
+                square_below = self.counts.get((x_n, y), 0)*self.counts.get((x, y - d), 0)*self.counts.get((x_n, y-d), 0)
+                sol = sol + square_above + square_below
         return sol
 
 
