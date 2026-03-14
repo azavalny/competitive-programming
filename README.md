@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/azavalny/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azavalny/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/azavalny/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/azavalny/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/azavalny/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/azavalny/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/azavalny/competitive-programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/azavalny/competitive-programming/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/azavalny/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/azavalny/competitive-programming/tree/master/0204-count-primes) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
