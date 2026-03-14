@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/azavalny/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Design
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/azavalny/competitive-programming/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/azavalny/competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/azavalny/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
+| [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
+| [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
+## Data Stream
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
