@@ -29,6 +29,7 @@ class Solution:
         last = first + (weeks_passed-1)*7
         total += weeks_passed*(first + last)//2
 
+        # if any days left in last week
         if days_of_last_week%7 != 0:
             monday_last_week = weeks_passed + 1
             total += monday_last_week
