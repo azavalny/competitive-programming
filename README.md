@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/azavalny/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/azavalny/competitive-programming/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/azavalny/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/azavalny/competitive-programming/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/azavalny/competitive-programming/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/azavalny/competitive-programming/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/azavalny/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/azavalny/competitive-programming/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/azavalny/competitive-programming/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/azavalny/competitive-programming/tree/master/0263-ugly-number) |
 | [0593-valid-square](https://github.com/azavalny/competitive-programming/tree/master/0593-valid-square) |
