@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/azavalny/competitive-programming/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/azavalny/competitive-programming/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/azavalny/competitive-programming/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/azavalny/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/azavalny/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
+| [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Binary Search
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/azavalny/competitive-programming/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/azavalny/competitive-programming/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/azavalny/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/azavalny/competitive-programming/tree/master/2523-closest-prime-numbers-in-range) |
