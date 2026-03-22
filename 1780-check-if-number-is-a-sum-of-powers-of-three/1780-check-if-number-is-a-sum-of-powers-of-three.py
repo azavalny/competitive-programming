@@ -10,10 +10,10 @@ class Solution:
         1, 3, 9, 27, 81                                                            
         """
         res = False
-        
-        def dfs(index, curSum):
+
+        def dfs(i, curSum):
             nonlocal res
-            if index == int(math.log(n, 3))+1:
+            if i == int(math.log(n, 3))+1:
                 if curSum == n:
                     res = True
                 return
@@ -21,7 +21,7 @@ class Solution:
             if curSum > n or res == True:
                 return False
             
-            dfs(index + 1, curSum)
-            dfs(index + 1, curSum + 3**index)
+            dfs(i + 1, curSum)
+            dfs(i + 1, curSum + 3**i)
         dfs(0, 0)
         return res
