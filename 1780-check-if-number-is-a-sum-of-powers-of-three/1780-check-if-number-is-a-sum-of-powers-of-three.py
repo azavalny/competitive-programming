@@ -18,7 +18,7 @@ class Solution:
                     res = True
                 return
 
-            if curSum > n or res == True:
+            if curSum > n or 3**i > n:
                 return False
             
             dfs(i + 1, curSum)
