@@ -10,11 +10,10 @@ class Solution:
         1, 3, 9, 27, 81                                                            
         """
         res = False
-        arr = [3**i for i in range(int(math.log(n, 3))+1)]
-
+        
         def dfs(index, curSum):
             nonlocal res
-            if index == len(arr):
+            if index == int(math.log(n, 3))+1:
                 if curSum == n:
                     res = True
                 return
@@ -23,6 +22,6 @@ class Solution:
                 return False
             
             dfs(index + 1, curSum)
-            dfs(index + 1, curSum + arr[index])
+            dfs(index + 1, curSum + 3**index)
         dfs(0, 0)
         return res
