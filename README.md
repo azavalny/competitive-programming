@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/azavalny/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/azavalny/competitive-programming/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/azavalny/competitive-programming/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/azavalny/competitive-programming/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/azavalny/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
