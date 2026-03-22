@@ -21,7 +21,7 @@ class Solution:
             if curSum > n:
                 return False
             
-            dfs(i + 1, curSum)
-            dfs(i + 1, curSum + 3**i)
+            dfs(i + 1, curSum) # skip
+            dfs(i + 1, curSum + 3**i) # use
         dfs(0, 0)
         return res
