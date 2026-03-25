@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/azavalny/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/azavalny/competitive-programming/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/azavalny/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/azavalny/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/azavalny/competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/azavalny/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/azavalny/competitive-programming/tree/master/0724-find-pivot-index) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/azavalny/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azavalny/competitive-programming/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/azavalny/competitive-programming/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/azavalny/competitive-programming/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/azavalny/competitive-programming/tree/master/0263-ugly-number) |
+| [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/azavalny/competitive-programming/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [1041-robot-bounded-in-circle](https://github.com/azavalny/competitive-programming/tree/master/1041-robot-bounded-in-circle) |
