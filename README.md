@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/azavalny/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/azavalny/competitive-programming/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1572-matrix-diagonal-sum](https://github.com/azavalny/competitive-programming/tree/master/1572-matrix-diagonal-sum) |
