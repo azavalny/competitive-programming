@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1572-matrix-diagonal-sum](https://github.com/azavalny/competitive-programming/tree/master/1572-matrix-diagonal-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 ## Sorting
