@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/azavalny/competitive-programming/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1572-matrix-diagonal-sum](https://github.com/azavalny/competitive-programming/tree/master/1572-matrix-diagonal-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/azavalny/competitive-programming/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 ## Matrix
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/azavalny/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/azavalny/competitive-programming/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/azavalny/competitive-programming/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/azavalny/competitive-programming/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/azavalny/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azavalny/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/azavalny/competitive-programming/tree/master/0392-is-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
 | ------- |
