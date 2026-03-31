@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/azavalny/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
+| [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Design
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
+| [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
+| [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/azavalny/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/azavalny/competitive-programming/tree/master/2523-closest-prime-numbers-in-range) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
