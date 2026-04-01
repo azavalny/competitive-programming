@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/azavalny/competitive-programming/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/azavalny/competitive-programming/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/azavalny/competitive-programming/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/azavalny/competitive-programming/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/azavalny/competitive-programming/tree/master/0735-asteroid-collision) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/azavalny/competitive-programming/tree/master/0704-binary-search) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Math
 |  |
