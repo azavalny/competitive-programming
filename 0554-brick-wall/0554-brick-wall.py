@@ -7,7 +7,7 @@ class Solution:
 
         min number of crossed bricks after drawing vertical line
         = max number of rows with the same curSum
-
+        # rows - max number of edges = cross bricks
         """
         edges = Counter()
 
