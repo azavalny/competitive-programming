@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/azavalny/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/azavalny/competitive-programming/tree/master/0739-daily-temperatures) |
+| [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/azavalny/competitive-programming/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/azavalny/competitive-programming/tree/master/0875-koko-eating-bananas) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/azavalny/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0661-image-smoother](https://github.com/azavalny/competitive-programming/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/azavalny/competitive-programming/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/azavalny/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/azavalny/competitive-programming/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/azavalny/competitive-programming/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
 | [1041-robot-bounded-in-circle](https://github.com/azavalny/competitive-programming/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/azavalny/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
