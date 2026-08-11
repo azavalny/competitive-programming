@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/azavalny/competitive-programming/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/azavalny/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/azavalny/competitive-programming/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/azavalny/competitive-programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
 | [1041-robot-bounded-in-circle](https://github.com/azavalny/competitive-programming/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/azavalny/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1544-make-the-string-great](https://github.com/azavalny/competitive-programming/tree/master/1544-make-the-string-great) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/azavalny/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
