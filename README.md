@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/azavalny/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/azavalny/competitive-programming/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/azavalny/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/azavalny/competitive-programming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/azavalny/competitive-programming/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/azavalny/competitive-programming/tree/master/0066-plus-one) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/azavalny/competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/azavalny/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/azavalny/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/azavalny/competitive-programming/tree/master/0392-is-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/azavalny/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/azavalny/competitive-programming/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
