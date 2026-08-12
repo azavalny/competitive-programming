@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/azavalny/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/azavalny/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/azavalny/competitive-programming/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/azavalny/competitive-programming/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/azavalny/competitive-programming/tree/master/0875-koko-eating-bananas) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/azavalny/competitive-programming/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
