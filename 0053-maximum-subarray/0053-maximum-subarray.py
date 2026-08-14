@@ -15,9 +15,10 @@ maxSum: -4   3   3  6   6  6  8   8  11
         """
         curSum, maxSum, l, r = 0, float("-inf"), 0, 0
         while r < len(nums):
+            if curSum < 0:
+                curSum = 0
             curSum += nums[r]
             maxSum = max(maxSum, curSum)
             r+=1
-            if curSum < 0:
-                curSum = 0
+
         return maxSum
