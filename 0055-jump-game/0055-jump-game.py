@@ -14,7 +14,6 @@ r=farthest (before out of bounds)
         l, r = 0,0
         farthest = 0
         while l <= r and r < len(nums):
-            print(l, r)
             for i in range(l, r+1):
                 farthest = max(farthest, i + nums[i])
             l=r+1
