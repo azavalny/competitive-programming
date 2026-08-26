@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/azavalny/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/azavalny/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/azavalny/competitive-programming/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/azavalny/competitive-programming/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/azavalny/competitive-programming/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/azavalny/competitive-programming/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/azavalny/competitive-programming/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
+| [0846-hand-of-straights](https://github.com/azavalny/competitive-programming/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/azavalny/competitive-programming/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/azavalny/competitive-programming/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
