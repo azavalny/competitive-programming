@@ -41,19 +41,17 @@ Output
 Expected
 5
         """
-        heap = [(val, idx) for idx, val in enumerate(ratings)]
-        heapq.heapify(heap)
+        n = len(ratings)
+        candies = [1] * n
 
-        candies = [0]*len(ratings)
-        while heap:
-            curRating, i = heapq.heappop(heap)
-            leftNeighborCandy, rightNeighborCandy = 1, 1
-            # is either neighbor larger?
-            l = max(0, i-1)
-            if curRating > ratings[l]:
-                leftNeighborCandy = max(1, candies[l]+1)
-            r = min(i+1, len(ratings)-1)
-            if curRating > ratings[r]:
-                rightNeighborCandy = max(1, candies[r]+1)
-            candies[i] = max(leftNeighborCandy, rightNeighborCandy)
+        # Pass 1: satisfy the left rule (higher than smaller left neighbor)
+        for i in range(1, n):
+            if ratings[i] > ratings[i - 1]:
+                candies[i] = candies[i - 1] + 1
+
+        # Pass 2: satisfy the right rule without breaking the left rule
+        for i in range(n - 2, -1, -1):
+            if ratings[i] > ratings[i + 1]:
+                candies[i] = max(candies[i], candies[i + 1] + 1)
+
         return sum(candies)
