@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/azavalny/competitive-programming/tree/master/2270-number-of-ways-to-split-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/azavalny/competitive-programming/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
+| [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/azavalny/competitive-programming/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Design
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [2270-number-of-ways-to-split-array](https://github.com/azavalny/competitive-programming/tree/master/2270-number-of-ways-to-split-array) |
+| [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/azavalny/competitive-programming/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
+| [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Binary Search
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/azavalny/competitive-programming/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/azavalny/competitive-programming/tree/master/0875-koko-eating-bananas) |
+| [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 ## Math
 |  |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/azavalny/competitive-programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/azavalny/competitive-programming/tree/master/0978-longest-turbulent-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 ## Stack
 |  |
 | ------- |
