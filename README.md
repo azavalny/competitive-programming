@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/azavalny/competitive-programming/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/azavalny/competitive-programming/tree/master/1768-merge-strings-alternately) |
+| [2938-separate-black-and-white-balls](https://github.com/azavalny/competitive-programming/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/azavalny/competitive-programming/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/azavalny/competitive-programming/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/azavalny/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/azavalny/competitive-programming/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/azavalny/competitive-programming/tree/master/1975-maximum-matrix-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
+| [2938-separate-black-and-white-balls](https://github.com/azavalny/competitive-programming/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
