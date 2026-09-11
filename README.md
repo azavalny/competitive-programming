@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 | [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/azavalny/competitive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/azavalny/competitive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 | [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/azavalny/competitive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/azavalny/competitive-programming/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/azavalny/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/azavalny/competitive-programming/tree/master/2938-separate-black-and-white-balls) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/azavalny/competitive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2938-separate-black-and-white-balls](https://github.com/azavalny/competitive-programming/tree/master/2938-separate-black-and-white-balls) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/azavalny/competitive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
