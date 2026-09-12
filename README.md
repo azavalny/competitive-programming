@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/azavalny/competitive-programming/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/azavalny/competitive-programming/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/azavalny/competitive-programming/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/azavalny/competitive-programming/tree/master/0846-hand-of-straights) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/azavalny/competitive-programming/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/azavalny/competitive-programming/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/azavalny/competitive-programming/tree/master/0670-maximum-swap) |
 | [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
 | [1041-robot-bounded-in-circle](https://github.com/azavalny/competitive-programming/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/azavalny/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
