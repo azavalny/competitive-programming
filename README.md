@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/azavalny/competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/azavalny/competitive-programming/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/azavalny/competitive-programming/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/azavalny/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/azavalny/competitive-programming/tree/master/1572-matrix-diagonal-sum) |
 | [1975-maximum-matrix-sum](https://github.com/azavalny/competitive-programming/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/azavalny/competitive-programming/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 | [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/azavalny/competitive-programming/tree/master/0207-course-schedule) |
 | [0341-flatten-nested-list-iterator](https://github.com/azavalny/competitive-programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -431,11 +435,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/azavalny/competitive-programming/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/azavalny/competitive-programming/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/azavalny/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/azavalny/competitive-programming/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
