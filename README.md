@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/azavalny/competitive-programming/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/azavalny/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/azavalny/competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/azavalny/competitive-programming/tree/master/1014-best-sightseeing-pair) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/azavalny/competitive-programming/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/azavalny/competitive-programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/azavalny/competitive-programming/tree/master/0978-longest-turbulent-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/azavalny/competitive-programming/tree/master/1014-best-sightseeing-pair) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 ## Stack
