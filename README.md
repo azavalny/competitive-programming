@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/azavalny/competitive-programming/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/azavalny/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/azavalny/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/azavalny/competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/azavalny/competitive-programming/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/azavalny/competitive-programming/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
@@ -508,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/azavalny/competitive-programming/tree/master/0918-maximum-sum-circular-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/azavalny/competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
