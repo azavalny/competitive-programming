@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/azavalny/competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/azavalny/competitive-programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/azavalny/competitive-programming/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/azavalny/competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/azavalny/competitive-programming/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
@@ -516,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/azavalny/competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
+## Binary Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/azavalny/competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
