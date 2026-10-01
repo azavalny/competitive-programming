@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/azavalny/competitive-programming/tree/master/1572-matrix-diagonal-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/azavalny/competitive-programming/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/azavalny/competitive-programming/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/azavalny/competitive-programming/tree/master/1572-matrix-diagonal-sum) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/azavalny/competitive-programming/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1975-maximum-matrix-sum](https://github.com/azavalny/competitive-programming/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/azavalny/competitive-programming/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/azavalny/competitive-programming/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/azavalny/competitive-programming/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/azavalny/competitive-programming/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/azavalny/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/azavalny/competitive-programming/tree/master/1975-maximum-matrix-sum) |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/azavalny/competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/azavalny/competitive-programming/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
