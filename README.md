@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/azavalny/competitive-programming/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
+| [0916-word-subsets](https://github.com/azavalny/competitive-programming/tree/master/0916-word-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/azavalny/competitive-programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/azavalny/competitive-programming/tree/master/0946-validate-stack-sequences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/azavalny/competitive-programming/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/azavalny/competitive-programming/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
+| [0916-word-subsets](https://github.com/azavalny/competitive-programming/tree/master/0916-word-subsets) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/azavalny/competitive-programming/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/azavalny/competitive-programming/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/azavalny/competitive-programming/tree/master/0763-partition-labels) |
+| [0916-word-subsets](https://github.com/azavalny/competitive-programming/tree/master/0916-word-subsets) |
 | [1041-robot-bounded-in-circle](https://github.com/azavalny/competitive-programming/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/azavalny/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/azavalny/competitive-programming/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
