@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2013-detect-squares](https://github.com/azavalny/competitive-programming/tree/master/2013-detect-squares) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/azavalny/competitive-programming/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/azavalny/competitive-programming/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2270-number-of-ways-to-split-array](https://github.com/azavalny/competitive-programming/tree/master/2270-number-of-ways-to-split-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/azavalny/competitive-programming/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/azavalny/competitive-programming/tree/master/2364-count-number-of-bad-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/azavalny/competitive-programming/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1975-maximum-matrix-sum](https://github.com/azavalny/competitive-programming/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/azavalny/competitive-programming/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/azavalny/competitive-programming/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/azavalny/competitive-programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/azavalny/competitive-programming/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/azavalny/competitive-programming/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/azavalny/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
