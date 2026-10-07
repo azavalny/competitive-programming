@@ -75,7 +75,6 @@ GUARDS {(1, 5): 1, (1, 1): 1, (1, 6): 1, (0, 2): 1}
                 if (guard_x, c) in walls_locations or (guard_x, c) in guards_locations:
                     break
                 marked[guard_x][c] = 1
-        print(marked)
         num_marked = 0
         for r in range(ROWS):
             for c in range(COLS):
