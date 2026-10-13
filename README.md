@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/azavalny/competitive-programming/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/azavalny/competitive-programming/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/azavalny/competitive-programming/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/azavalny/competitive-programming/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/azavalny/competitive-programming/tree/master/0978-longest-turbulent-subarray) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/azavalny/competitive-programming/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/azavalny/competitive-programming/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/azavalny/competitive-programming/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/azavalny/competitive-programming/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/azavalny/competitive-programming/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/azavalny/competitive-programming/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/azavalny/competitive-programming/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1041-robot-bounded-in-circle](https://github.com/azavalny/competitive-programming/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/azavalny/competitive-programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/azavalny/competitive-programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/azavalny/competitive-programming/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/azavalny/competitive-programming/tree/master/0918-maximum-sum-circular-subarray) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/azavalny/competitive-programming/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/azavalny/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Geometry
 |  |
