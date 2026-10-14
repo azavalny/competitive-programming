@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/azavalny/competitive-programming/tree/master/0916-word-subsets) |
 | [0930-binary-subarrays-with-sum](https://github.com/azavalny/competitive-programming/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/azavalny/competitive-programming/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/azavalny/competitive-programming/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/azavalny/competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1726-tuple-with-same-product](https://github.com/azavalny/competitive-programming/tree/master/1726-tuple-with-same-product) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/azavalny/competitive-programming/tree/master/0341-flatten-nested-list-iterator) |
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/azavalny/competitive-programming/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/azavalny/competitive-programming/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/azavalny/competitive-programming/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/azavalny/competitive-programming/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/azavalny/competitive-programming/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/azavalny/competitive-programming/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
 |  |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/azavalny/competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/azavalny/competitive-programming/tree/master/0341-flatten-nested-list-iterator) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/azavalny/competitive-programming/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/azavalny/competitive-programming/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Iterator
 |  |
@@ -546,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/azavalny/competitive-programming/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/azavalny/competitive-programming/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
