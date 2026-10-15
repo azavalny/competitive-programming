@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/azavalny/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/azavalny/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/azavalny/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/azavalny/competitive-programming/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/azavalny/competitive-programming/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/azavalny/competitive-programming/tree/master/0485-max-consecutive-ones) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/azavalny/competitive-programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/azavalny/competitive-programming/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/azavalny/competitive-programming/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/azavalny/competitive-programming/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/azavalny/competitive-programming/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/azavalny/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/azavalny/competitive-programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/azavalny/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/azavalny/competitive-programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/azavalny/competitive-programming/tree/master/0611-valid-triangle-number) |
@@ -554,4 +557,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/azavalny/competitive-programming/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
