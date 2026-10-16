@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/azavalny/competitive-programming/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/azavalny/competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/azavalny/competitive-programming/tree/master/1267-count-servers-that-communicate) |
+| [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/azavalny/competitive-programming/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/azavalny/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/azavalny/competitive-programming/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/azavalny/competitive-programming/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/azavalny/competitive-programming/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/azavalny/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/azavalny/competitive-programming/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/azavalny/competitive-programming/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/azavalny/competitive-programming/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/azavalny/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/azavalny/competitive-programming/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
 | [1544-make-the-string-great](https://github.com/azavalny/competitive-programming/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/azavalny/competitive-programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/azavalny/competitive-programming/tree/master/1598-crawler-log-folder) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/azavalny/competitive-programming/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/azavalny/competitive-programming/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/azavalny/competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
 | [2439-minimize-maximum-of-array](https://github.com/azavalny/competitive-programming/tree/master/2439-minimize-maximum-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/azavalny/competitive-programming/tree/master/2601-prime-subtraction-operation) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/azavalny/competitive-programming/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/azavalny/competitive-programming/tree/master/0658-find-k-closest-elements) |
+| [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
 | [1845-seat-reservation-manager](https://github.com/azavalny/competitive-programming/tree/master/1845-seat-reservation-manager) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/azavalny/competitive-programming/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Simulation
@@ -574,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/azavalny/competitive-programming/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/azavalny/competitive-programming/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
